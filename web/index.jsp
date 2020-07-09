@@ -22,7 +22,7 @@
       <input type="radio" name="option" value="jiandao" >剪刀
       <input type="radio" name="option" value="shitou">石头
       <input type="radio"name="option" value="bu">布
-      <input type="submit"value="确定"/>
+      <input type="submit"value="确定">
   </form>
 
   </body>
